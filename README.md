@@ -261,16 +261,3 @@ https://www.cnblogs.com/zgghb/p/7828069.html
 ## mybatis-generator
 ## mybatis-generator-gui
   https://github.com/zouzg/mybatis-generator-gui
-
-
-
-
-
-陈周海 11-23 09:34:18
-10.40.3.16
-
-陈周海 11-23 09:34:29
-CREATE USER 'MYSQL'@'%' IDENTIFIED BY 'sa!@#456';
-
-##Druid
-https://www.cnblogs.com/niejunlei/p/5977895.html
